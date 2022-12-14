@@ -2,10 +2,11 @@
 .herosection{
     height: 400px ;
     width: 100%;
-    background-size: cover;
-    background-repeat: no-repeat;
-    filter: grayscale(40%);
-    background-image: url(/image/long\ cannon\ and\ haley.jpg)
+    background-size:contain;
+    background-image: url(/image/haley\ logo.png)
+}
+.herotext{
+    background: rgba(255, 255, 255, 0.149);
 }
 
 h1{
@@ -15,3 +16,9 @@ h1{
 p{
     text-shadow: 1px 1px;
 }
+
+
+
+/* rgb(255,194,189) */
+/* rgb(255,137,57) */
+/* rgb(255,106,42) */
