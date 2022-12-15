@@ -2,8 +2,9 @@
 .herosection{
     height: 400px ;
     width: 100%;
-    background-size:contain;
-    background-image: url(/image/haley\ logo.png)
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-image: url(/image/long\ cannon\ and\ haley.jpg)
 }
 .herotext{
     background: rgba(255, 255, 255, 0.149);
@@ -16,6 +17,10 @@ h1{
 p{
     text-shadow: 1px 1px;
 }
+
+@media screen and (min-width: 850px){
+}
+    
 
 
 
