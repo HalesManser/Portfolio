@@ -1,0 +1,17 @@
+
+.herosection{
+    height: 400px ;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    filter: grayscale(40%);
+    background-image: url(/image/long\ cannon\ and\ haley.jpg)
+}
+
+h1{
+    text-shadow:1px 1px;
+
+}
+p{
+    text-shadow: 1px 1px;
+}
