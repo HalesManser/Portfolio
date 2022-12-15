@@ -18,7 +18,11 @@ p{
     text-shadow: 1px 1px;
 }
 
-@media screen and (min-width: 850px){
+@media only screen and (min-width: 1245px){.herosection
+   {
+    height: 600px;
+    width: 100%;
+   }
 }
     
 

@@ -1,27 +1,12 @@
-.namecontactform{
-    width: 85%;
-    padding: 12px 20px;
-    margin: 8px 0;
-    box-sizing: border-box;
-    border: solid;
+.submitbtn{
+    background-color: rgb(255,107,43) ;
+    width: 30vw;
+    justify-content: center;
+
 }
-.lastnamecontact{
-    width: 85%;
-    padding: 12px 20px;
-    margin: 8px 0;
-    box-sizing: border-box;
-    border: solid;
-}
-.information {
-    text-align: center;
-    width: 85%;
-    height: 150px;
-    padding: 12px 20px;
-    box-sizing: border-box;
-    border: 2px solid #ccc;
-    background-color: rgba(255, 107, 43, 0.442);
-  }
-.informationtext{
-    width: 80vw;
-    height: 15vh;
+.footer{
+    bottom:0;
+    width: 100%;
+    position: sticky;
+    margin-top: auto;
 }
