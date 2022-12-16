@@ -7,6 +7,6 @@
 .footer{
     bottom:0;
     width: 100%;
-    position: sticky;
+    position: fixed;
     margin-top: auto;
 }
